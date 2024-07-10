@@ -1,6 +1,6 @@
 <h1 align=center>🌸 DAY J 🌸</h1>
 <div align=center>
-  <img src="https://github.com/DAY-J/asset/blob/main/icon.png?raw=true" width="400" height="400">
+  <img src="https://github.com/DAY-J/asset/blob/main/icon.png?raw=true" height="400">
 </div>
 
 <div align = center>
