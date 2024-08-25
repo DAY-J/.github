@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/DataBase-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/Amazon rds-527FFF?style=for-the-badge&logo=Amazon rds&logoColor=white">
   <img src="https://img.shields.io/badge/RDBMS-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=Mysql&logoColor=white"><img src="https://img.shields.io/badge/version 8-515151?style=for-the-badge"><br><br>
 </div>
+
 <br><br><br>
 
 <h1 align=center>✨ Team ✨</h1>
