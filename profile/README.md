@@ -29,25 +29,31 @@
   <br>
   <div align="center">
     <h3>로그인</h3>
-      <img src="https://github.com/DAY-J/.github/assets/102334596/d55c14ed-b0f0-41b6-af8e-3b377d7a4318" width=400px height=800px></img>
-      <img src="https://github.com/DAY-J/.github/assets/102334596/3aa9fe41-e9e8-486b-8d97-ed0af5a43fec" width=400px height=800px></img>
+      <img src="https://github.com/user-attachments/assets/03cc4793-4bb3-4abd-9e08-408ef8bf9af7" width=360px height=800px>
+      <img src="https://github.com/user-attachments/assets/8a844573-ae1e-4df8-8ffb-23fdba459c6a" width=360px height=800px>
       <br><br><br>
     <h3>홈</h3>
-      <img src="https://github.com/DAY-J/.github/assets/102334596/3dbf107d-78c7-4c5e-b59a-b38e0ba343ca" width=400px height=800px></img>
-      <img src="https://github.com/DAY-J/.github/assets/102334596/f8f967f3-59fb-436d-a002-c197942e7ad6" width=400px height=800px></img>
+      <img src="https://github.com/user-attachments/assets/a64028df-e5f7-464f-803b-c5cdd7d399e9" width=360px height=800px>
+      <img src="https://github.com/user-attachments/assets/c5cc8174-c19d-4d16-a60f-0cdd073c691c" width=360px height=800px>
       <br><br><br>
     <h3>친구</h3>
-      <img src="https://github.com/DAY-J/.github/assets/102334596/598e4642-3f5c-47f5-9329-aa4a77871109" width=400px height=800px></img>
-      <img src="https://github.com/DAY-J/.github/assets/102334596/8f83da4d-5dd4-4ea4-94ea-690f5f025a06" width=400px height=800px></img>
+      <img src="https://github.com/user-attachments/assets/336695b1-0e20-4a91-814a-1c4ade245c67" width=360px height=800px>
+      <img src="https://github.com/user-attachments/assets/3bcaa573-cb36-48ff-9010-369b346b399e" width=360px height=800px>
+      <img src="https://github.com/user-attachments/assets/71b6c6fe-853e-4b1f-b3a4-56cfea3e58c7" width=360px height=800px>
+      <img src="https://github.com/user-attachments/assets/41acf630-e2a2-441c-b435-910e9735ff6b" width=360px height=800px>
       <br><br><br>
-    <h3>통계</h3>
-      <img src="https://github.com/DAY-J/.github/assets/102334596/0616a22e-bf35-4e1c-81be-1f068f3b0c34" width=400px height=800px></img>
+    <h3>통계</h3>!
+      <img src="https://github.com/user-attachments/assets/ce72f608-409f-4e38-a3f2-199fef06138f" width=360px height=800px>
+      <img src="https://github.com/user-attachments/assets/1c2414b1-5b91-439a-adc0-7dc822cf3da8" width=360px height=800px>
       <br><br><br>
     <h3>라운지</h3>
-      <img src="https://github.com/DAY-J/.github/assets/102334596/40d6ee50-fbf7-4c44-82f4-0465d89bea8d" width=400px height=800px></img>
-      <img src="https://github.com/DAY-J/.github/assets/102334596/0b887cc4-b9b0-4d6f-821c-4b2dd045a458" width=400px height=800px></img>
+      <img src="https://github.com/user-attachments/assets/0ec8deb1-2119-4929-91a7-93d111f8d812" width=360px height=800px>
+      <img src="https://github.com/user-attachments/assets/476c887e-9410-4d02-8039-5aca59efca74" width=360px height=800px>
+      <img src="https://github.com/user-attachments/assets/29af8bb3-8976-4fe8-b088-2ae6659fbbb8" width=360px height=800px>
+      <img src="https://github.com/user-attachments/assets/8b352457-f137-41fc-907a-29397192157e" width=360px height=800px>
       <br><br><br>
     <h3>마이페이지</h3>
-      <img src="https://github.com/DAY-J/.github/assets/102334596/4d4dd865-ccbb-477c-acc7-0a60ba3e7004" width=400px height=800px></img>
+      <img src="https://github.com/user-attachments/assets/5eef1192-f560-4a70-bb8a-a0eee487ea65" width=360px height=800px>
+      <img src="https://github.com/user-attachments/assets/920c8fba-848c-4583-a264-0f5c3ed4328a" width=360px height=800px>
       <br><br><br>
   </div>
