@@ -22,12 +22,12 @@
   
   | 팀원 | 역할 | 맡은 일 |
   | :------------: | :------------: | :------------: |
-  | <img src='https://avatars.githubusercontent.com/u/88303084?s=70&v=4' height=100 width=100px></img><br><b>[김채형](https://github.com/cherry7680)<b> | 팀장, 디자인 | 프로젝트 총괄, <br> 앱 전체 디자인 담당 <br> |
-  | <img src='https://avatars.githubusercontent.com/u/102334596?v=4' height=100 width=100px></img><br><b>[변성훈](https://github.com/DNA-B)<b> | 백엔드 | 스켈레톤 코드 작성, <br> (계획, 라운지) API 개발, <br> 리마인더 기능 개발, <br> GCP 버킷 연동 이미지 처리 구현, <br> JWT 인증/인가 구현, <br> 전역 커스텀 에러 처리 <br> |
+  | <img src='https://avatars.githubusercontent.com/u/88303084?s=70&v=4' height=100 width=100px></img><br><b>[김채형](https://github.com/cherry7680)<b> | 팀장, 디자인 | 프로젝트 총괄, <br> 앱 전체 디자인 담당, <br> PPT 작성 |
+  | <img src='https://avatars.githubusercontent.com/u/102334596?v=4' height=100 width=100px></img><br><b>[변성훈](https://github.com/DNA-B)<b> | 백엔드 | 스켈레톤 코드 작성, <br> (계획, 라운지) API 개발, <br> 리마인더 기능 개발, <br> GCP 버킷 연동 이미지 처리 구현, <br> JWT 인증/인가 구현, <br> 전역 커스텀 에러 처리, <br> 발표 |
   | <img src='https://avatars.githubusercontent.com/u/113335358?s=70&v=4' height=100 width=100px></img><br><b>[이신형](https://github.com/leeshinhyung)<b> | 백엔드 | (유저, 그룹, 통계, 계획, 라운지) API 개발, <br> DTO 패턴 적용, <br> 계획 반복 기능 구현 |
   | <img src='https://avatars.githubusercontent.com/u/90862370?v=4' height=100 width=100px></img><br><b>[문지영](https://github.com/jiyoung0270)<b> | 프론트엔드 | OAuth2 GoogleAPI 연동, <br> (로그인, 계획, 통계) 개발 |
-  | <img src='https://avatars.githubusercontent.com/u/63306779?v=4' height=100 width=100px></img><br><b>[오소영](https://github.com/ohsoyoungg)<b> | 프론트엔드 | (라운지, 그룹, 마이페이지) 개발 <br> |
-  | <img src='https://avatars.githubusercontent.com/u/127875291?v=4' height=100 width=100px></img><br><b>[신재호](https://github.com/Jaeho5735)<b> | 자료조사 | ppt 작성 및 자료조사 |
+  | <img src='https://avatars.githubusercontent.com/u/63306779?v=4' height=100 width=100px></img><br><b>[오소영](https://github.com/ohsoyoungg)<b> | 프론트엔드 | (라운지, 그룹, 마이페이지) 개발 |
+  | <img src='https://avatars.githubusercontent.com/u/127875291?v=4' height=100 width=100px></img><br><b>[신재호](https://github.com/Jaeho5735)<b> | 자료조사 | 자료조사 |
   
 </div>
 <br><br><br>
