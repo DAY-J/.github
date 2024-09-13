@@ -64,3 +64,10 @@
       <img src="https://github.com/user-attachments/assets/920c8fba-848c-4583-a264-0f5c3ed4328a" width=360px height=800px>
       <br><br><br>
   </div>
+
+<br><br><br>
+
+<h1 align="center">💾 ERD 💾</h1>
+  <div>
+    <img src="https://github.com/user-attachments/assets/facce4fe-d41b-4841-ae47-68bed21d91fd">
+  </div>
