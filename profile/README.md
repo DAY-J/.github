@@ -40,6 +40,13 @@
 
 <br><br><br>
 
+<h1 align="center">💾 ERD 💾</h1>
+  <div>
+    <img src="https://github.com/user-attachments/assets/facce4fe-d41b-4841-ae47-68bed21d91fd">
+  </div>
+
+<br><br><br>
+
 <h1 align="center">👀 Preview 👀</h1>
   <br>
   <div align="center">
@@ -74,8 +81,3 @@
   </div>
 
 <br><br><br>
-
-<h1 align="center">💾 ERD 💾</h1>
-  <div>
-    <img src="https://github.com/user-attachments/assets/facce4fe-d41b-4841-ae47-68bed21d91fd">
-  </div>
