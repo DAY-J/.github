@@ -29,6 +29,15 @@
   | <img src='https://avatars.githubusercontent.com/u/63306779?v=4' height=100 width=100px></img><br><b>[오소영](https://github.com/ohsoyoungg)<b> | 프론트엔드 | (라운지, 그룹, 마이페이지) 개발 |
   
 </div>
+
+<br><br><br>
+
+<h1 align="center">👋 Introduction 👋</h1>
+  <div align="center">
+계획적인 삶을 살 수 있게끔 목표 설정 서비스, 달성률 통계 등의 서비스를 제공합니다. <br>
+계획을 작성하거나 달성률을 확인할 때, 사용자는 지정된 7개의 태그 (건강, 자기 계발, 취미 등)를 선택할 수 있습니다. <br>
+다른 앱에서는 보기 힘든 리마인더 기능을 추가함으로써 사용자가 과거에 세웠던 계획을 상기시키고, 이를 통해 과거에 진행했던 계획을 다시 도전할 수 있게끔 동기를 제공합니다.</div>
+
 <br><br><br>
 
 <h1 align="center">📈 Gantt chart 📈</h1>
