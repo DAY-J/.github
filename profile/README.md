@@ -3,6 +3,8 @@
   <img src="https://github.com/DAY-J/asset/blob/main/icon.png?raw=true" height="400">
 </div>
 
+<br><br>
+
 <div align = center>
   <img src="https://img.shields.io/badge/UI-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/adobe XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white"><img src="https://img.shields.io/badge/Zeplin-4E5EE4?style=for-the-badge&logo=openzeppelin&logoColor=white"><br>
   <img src="https://img.shields.io/badge/FrontEnd-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"><img src="https://img.shields.io/badge/version 4.1.0-515151?style=for-the-badge">
@@ -15,7 +17,7 @@
   <br><br>
 </div>
 
-<br><br><br>
+<br><br>
 
 <h1 align=center>✨ Team ✨</h1>
 <div align="center">
