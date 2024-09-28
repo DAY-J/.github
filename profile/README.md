@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Language-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/Java-FF7900?style=for-the-badge&logo=Java&logoColor=white"><img src="https://img.shields.io/badge/jdk 19-515151?style=for-the-badge"><br>
   <img src="https://img.shields.io/badge/DataBase-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/GCP SQL-4285F4?style=for-the-badge&logo=google cloud&logoColor=white">
   <img src="https://img.shields.io/badge/RDBMS-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=Mysql&logoColor=white"><img src="https://img.shields.io/badge/version 8-515151?style=for-the-badge"><br>
-  <img src="https://img.shields.io/badge/Bucket-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/google cloud storage-AECBFA?style=for-the-badge&logo=googlecloudstorage&logoColor=white">
+  <img src="https://img.shields.io/badge/Storage-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/google cloud storage-AECBFA?style=for-the-badge&logo=googlecloudstorage&logoColor=white">
   <br><br>
 </div>
 
