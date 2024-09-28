@@ -36,29 +36,30 @@
 
 <h1 align="center">👋 Introduction 👋</h1>
   <div align="center">
-계획적인 삶을 살 수 있게끔 목표 설정 서비스, 달성률 통계 등의 서비스를 제공합니다. <br>
-계획을 작성하거나 달성률을 확인할 때, 사용자는 지정된 7개의 태그 (건강, 자기 계발, 취미 등)를 선택할 수 있습니다. <br>
-라운지, 친구 기능을 통해 목표와 정보를 공유하고 서로 동기를 부여할 수 있습니다. <br>
-다른 앱에서는 보기 힘든 리마인더 기능을 추가함으로써 사용자가 과거에 세웠던 계획을 상기시키고, 이를 통해 과거에 진행했던 계획을 다시 도전할 수 있게끔 동기를 제공합니다.</div>
+    계획적인 삶을 살 수 있게끔 목표 설정 서비스, 달성률 통계 등의 서비스를 제공합니다. <br>
+    계획을 작성하거나 달성률을 확인할 때, 사용자는 지정된 7개의 태그 (건강, 자기 계발, 취미 등)를 선택할 수 있습니다. <br>
+    라운지, 친구 기능을 통해 목표와 정보를 공유하고 서로 동기를 부여할 수 있습니다. <br>
+    다른 앱에서는 보기 힘든 리마인더 기능을 추가함으로써 사용자가 과거에 세웠던 계획을 상기시키고, 이를 통해 과거에 진행했던 계획을 다시 도전할 수 있게끔 동기를 제공합니다.
+  </div>
 
 <br><br><br>
 
 <h1 align="center">📈 Gantt chart 📈</h1>
-  <img src="https://github.com/user-attachments/assets/28cc946d-5ef6-42bc-9791-21ce8800b5c6">
-
+  <div align="center">
+    <img src="https://github.com/user-attachments/assets/28cc946d-5ef6-42bc-9791-21ce8800b5c6" width=756px height=292px>
+  </div>
 <br><br><br>
 
 <h1 align="center">🌊 Flow 🌊</h1>
-  <div>
-    <img src="https://github.com/user-attachments/assets/50a5a077-f5c2-4d8e-8391-1daa7bdb30fb">
-    <img src="https://github.com/user-attachments/assets/4b315c2c-4c45-4848-8240-8cfb5f82f6c7">
+  <div align="center">
+    <img src="https://github.com/user-attachments/assets/50a5a077-f5c2-4d8e-8391-1daa7bdb30fb" width=756px height=430px>
   </div>
 
 <br><br><br>
 
 <h1 align="center">💾 ERD 💾</h1>
-  <div>
-    <img src="https://github.com/user-attachments/assets/facce4fe-d41b-4841-ae47-68bed21d91fd">
+  <div align="center">
+    <img src="https://github.com/user-attachments/assets/facce4fe-d41b-4841-ae47-68bed21d91fd" width=756px height=550px>
   </div>
 
 <br><br><br>
@@ -67,32 +68,24 @@
   <br>
   <div align="center">
     <h3>로그인</h3>
-      <img src="https://github.com/user-attachments/assets/03cc4793-4bb3-4abd-9e08-408ef8bf9af7" width=360px height=800px>
-      <img src="https://github.com/user-attachments/assets/8a844573-ae1e-4df8-8ffb-23fdba459c6a" width=360px height=800px>
+      <img src="https://github.com/user-attachments/assets/cbcb13fa-f373-4300-b519-469bace48627" width=340px height=720px>
       <br><br><br>
     <h3>홈</h3>
-      <img src="https://github.com/user-attachments/assets/a64028df-e5f7-464f-803b-c5cdd7d399e9" width=360px height=800px>
-      <img src="https://github.com/user-attachments/assets/7af69c88-14c3-4551-99c4-e1914158d9b1" width=360px height=800px>
+      <img src="https://github.com/user-attachments/assets/480485a5-01b5-4fc7-a22e-cdb941718233" width=340px height=720px>
+      <img src="https://github.com/user-attachments/assets/5aa50b89-0d22-455c-8997-3a2caa12a2ce" width=340px height=720px>
       <br><br><br>
-    <h3>친구</h3>
-      <img src="https://github.com/user-attachments/assets/336695b1-0e20-4a91-814a-1c4ade245c67" width=360px height=800px>
-      <img src="https://github.com/user-attachments/assets/3bcaa573-cb36-48ff-9010-369b346b399e" width=360px height=800px>
-      <img src="https://github.com/user-attachments/assets/71b6c6fe-853e-4b1f-b3a4-56cfea3e58c7" width=360px height=800px>
-      <img src="https://github.com/user-attachments/assets/41acf630-e2a2-441c-b435-910e9735ff6b" width=360px height=800px>
-      <br><br><br>
-    <h3>통계</h3>!
-      <img src="https://github.com/user-attachments/assets/ce72f608-409f-4e38-a3f2-199fef06138f" width=360px height=800px>
-      <img src="https://github.com/user-attachments/assets/1c2414b1-5b91-439a-adc0-7dc822cf3da8" width=360px height=800px>
+    <h3>통계</h3>
+      <img src="https://github.com/user-attachments/assets/7451cd72-7493-487b-9288-20268a0f6aff" width=340px height=720px>
       <br><br><br>
     <h3>라운지</h3>
-      <img src="https://github.com/user-attachments/assets/0ec8deb1-2119-4929-91a7-93d111f8d812" width=360px height=800px>
-      <img src="https://github.com/user-attachments/assets/476c887e-9410-4d02-8039-5aca59efca74" width=360px height=800px>
-      <img src="https://github.com/user-attachments/assets/29af8bb3-8976-4fe8-b088-2ae6659fbbb8" width=360px height=800px>
-      <img src="https://github.com/user-attachments/assets/8b352457-f137-41fc-907a-29397192157e" width=360px height=800px>
+      <img src="https://github.com/user-attachments/assets/404ce192-187b-49bd-876a-e464cf3d918a" width=340px height=720px>
+      <img src="https://github.com/user-attachments/assets/9cc5058c-bc32-4b72-ad5d-845dfb6990a9" width=340px height=720px>
+      <br><br><br>
+    <h3>친구</h3>
+      <img src="https://github.com/user-attachments/assets/f5413ecd-7035-4455-9ba1-bcc290bf0aaa" width=340px height=720px>
       <br><br><br>
     <h3>마이페이지</h3>
-      <img src="https://github.com/user-attachments/assets/5eef1192-f560-4a70-bb8a-a0eee487ea65" width=360px height=800px>
-      <img src="https://github.com/user-attachments/assets/920c8fba-848c-4583-a264-0f5c3ed4328a" width=360px height=800px>
+      <img src="https://github.com/user-attachments/assets/d9a8bc65-d53c-4aac-a62a-697041c59100" width=340px height=720px>
       <br><br><br>
   </div>
 
