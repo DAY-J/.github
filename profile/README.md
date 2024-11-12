@@ -59,7 +59,7 @@
 
 <h1 align="center">💾 ERD 💾</h1>
   <div align="center">
-    <img src="https://github.com/user-attachments/assets/facce4fe-d41b-4841-ae47-68bed21d91fd" width=756px height=550px>
+    <img src="https://github.com/user-attachments/assets/a373157f-d582-4c8b-ab46-0213e6ffd4f4">
   </div>
 
 <br><br><br>
