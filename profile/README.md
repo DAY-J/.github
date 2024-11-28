@@ -59,7 +59,7 @@
 
 <h1 align="center">💾 ERD 💾</h1>
   <div align="center">
-    <img src="https://github.com/user-attachments/assets/a373157f-d582-4c8b-ab46-0213e6ffd4f4">
+    <img src="https://github.com/DAY-J/assets/blob/main/images/ERD_final.png">
   </div>
 
 <br><br><br>
