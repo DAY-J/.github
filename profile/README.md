@@ -25,8 +25,8 @@
   | 팀원 | 역할 | 맡은 일 |
   | :------------: | :------------: | :------------: |
   | <img src='https://avatars.githubusercontent.com/u/88303084?s=70&v=4' height=100 width=100px></img><br><b>[김채형](https://github.com/cherry7680)<b> | 팀장, 디자인 | 프로젝트 총괄, <br> 앱 전체 디자인 담당, <br> PPT 작성 |
-  | <img src='https://avatars.githubusercontent.com/u/102334596?v=4' height=100 width=100px></img><br><b>[변성훈](https://github.com/DNA-B)<b> | 발표, 백엔드 | 스켈레톤 코드 작성, <br> (계획, 라운지) API 개발, <br> 리마인더 기능 개발, <br> GCP 버킷 연동 이미지 처리 구현, <br> JWT 인증/인가 구현, <br> 전역 커스텀 에러 처리 |
-  | <img src='https://avatars.githubusercontent.com/u/113335358?s=70&v=4' height=100 width=100px></img><br><b>[이신형](https://github.com/leeshinhyung)<b> | 백엔드 | (유저, 그룹, 통계, 계획, 라운지) API 개발, <br> DTO 패턴 적용, <br> 계획 반복 기능 구현, <br> 대댓글 구현, <br> 데이터 생성 및 API 테스트 |
+  | <img src='https://avatars.githubusercontent.com/u/102334596?v=4' height=100 width=100px></img><br><b>[변성훈](https://github.com/DNA-B)<b> | 발표, 백엔드 | DB 설계 및 ERD 작성 <br> 스켈레톤 코드 작성, <br> (계획, 라운지) API 개발, <br> 리마인더 기능 개발, <br> GCP 버킷 연동 이미지 처리 구현, <br> JWT 인증/인가 구현, <br> 전역 커스텀 에러 처리 |
+  | <img src='https://avatars.githubusercontent.com/u/113335358?s=70&v=4' height=100 width=100px></img><br><b>[이신형](https://github.com/leeshinhyung)<b> | 백엔드 | DB 설계 및 ERD 작성 <br> (유저, 그룹, 통계, 계획, 라운지) API 개발, <br> DTO 패턴 적용, <br> 계획 반복 기능 구현, <br> 대댓글 구현, <br> 데이터 생성 및 API 테스트 |
   | <img src='https://avatars.githubusercontent.com/u/90862370?v=4' height=100 width=100px></img><br><b>[문지영](https://github.com/jiyoung0270)<b> | 프론트엔드 | OAuth2 Google API 연동, <br> (로그인, 계획, 통계) 개발 |
   | <img src='https://avatars.githubusercontent.com/u/63306779?v=4' height=100 width=100px></img><br><b>[오소영](https://github.com/ohsoyoungg)<b> | 프론트엔드 | (라운지, 그룹, 마이페이지) 개발 |
   
