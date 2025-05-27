@@ -19,6 +19,7 @@
 
 <br><br>
 
+<!-- 
 <h1 align=center>✨ Team ✨</h1>
 <div align="center">
   
@@ -31,7 +32,7 @@
   | <img src='https://avatars.githubusercontent.com/u/63306779?v=4' height=100 width=100px></img><br><b>[오소영](https://github.com/ohsoyoungg)<b> | 프론트엔드 | (라운지, 그룹, 마이페이지) 개발 |
   
 </div>
-
+-->
 <br><br><br>
 
 <h1 align="center">👋 Introduction 👋</h1>
